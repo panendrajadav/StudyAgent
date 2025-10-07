@@ -21,5 +21,5 @@ It uses **Azure OpenAI** to give step-by-step explanations through a simple **St
 - Azure OpenAI  
 
 ---
-👨‍💻 Author
+👨‍💻 Author: 
 Panendra jadav
