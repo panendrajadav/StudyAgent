@@ -12,9 +12,7 @@ It uses **Azure OpenAI** to give step-by-step explanations through a simple **St
 - It helps you learn concepts clearly and easily.  
 
 ---
-👨‍💻 Author
 
-Panendra jadav
 ## ⚙️ Built With
 
 - Python  
@@ -23,3 +21,5 @@ Panendra jadav
 - Azure OpenAI  
 
 ---
+👨‍💻 Author
+Panendra jadav
